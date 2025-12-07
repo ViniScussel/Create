@@ -1,21 +1,28 @@
 # Create
-<h2>A simple and fast CLI task manager</h2>h2>
-<p>Create is a hobby project to help me and my friends with university deadlines</p>
+##A simple and fast CLI task manager
+* Create is a hobby project to help me and my friends with university deadlines
 
-## 🛠️ Pré-requisitos
+## 🛠️ Pre-requisites
 
-Para compilar e instalar o **Tasker**, você precisa ter as seguintes ferramentas instaladas em seu sistema Linux/Unix:
+To compilate and install **Create**, make shure you have this tools installed in your UNIX/LINUX system:
 
-* **Compilador C++ (g++):** Compatível com C++17 ou superior.
-* **Make:** Ferramenta para gerenciar a compilação via `Makefile`.
-* **Git:** Para clonar o repositório.
+* **C++ Compiler (g++):** Compatible with C++17 or superior.
+* **Make:** tool to get compiled with `Makefile`.
+* **Git:** to clone repository.
 
-## 📦 Instalação e Compilação
+## 📦 Instalation
 
-Siga estes passos para ter o `tasker` pronto para uso no seu terminal.
+### 1: Clone the repository
 
-### Passo 1: Clone o Repositório
-
-```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DO_SEU_REPOSITORIO]
+```terminal
+git clone https://github.com/ViniScussel/Create
+cd Create
+```
+### 2: Build
+```terminal
+make
+```
+### 3: Gloal Build (Recomended)
+```terminal
+sudo make install
+```
