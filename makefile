@@ -1,5 +1,5 @@
 # Nome do executável final
-TARGET = tasker
+TARGET = create
 
 # Compilador C++
 CXX = g++
