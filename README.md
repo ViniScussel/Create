@@ -1,13 +1,13 @@
-# Create - A simple and fast CLI task manager
+# Create - A simple, fast and light CLI task manager
 
-* Create is a hobby project to help me and my friends with university deadlines
+* Create is a hobby project to help me and my friends with university deadlines. This projetc will be implemented in a homemade server and all code will be here.
 
 ## 🛠️ Pre-requisites
 
-To compilate and install **Create**, make shure you have this tools installed in your UNIX/LINUX system:
+To compilate and install **Create**, make shure you have this tools installed in your UNIX/LINUX system (is very likely that you already have those tools in your system):
 
 * **C++ Compiler (g++):** Compatible with C++17 or superior.
-* **Make:** tool to get compiled with `Makefile`.
+* **Make:** tool to compiling with `Makefile`.
 * **Git:** to clone repository.
 
 ## 📦 Instalation
@@ -46,8 +46,10 @@ To erase a task, you only have to
 create -rm {number_of_the_task}
 ```
 where the {number_of_the_task} can be found in -la parameter.
+
 DO NOT CONFUNDE WITH -l PARAMETER.
-to conclude a task is simple
+
+To conclude a task is simple
 ```terminal
 create -cl {number_of_the_task}
 ```
