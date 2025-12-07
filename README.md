@@ -1,6 +1,6 @@
 # Create - A simple, fast and light CLI task manager
 
-* Create is a hobby project to help me and my friends with university deadlines. This projetc will be implemented in a homemade server and all code will be here.
+* Create is a hobby project to help me and my friends with university deadlines. This project will be implemented in a homemade server and all code will be here.
 
 ## 🛠️ Pre-requisites
 
