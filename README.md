@@ -4,7 +4,7 @@
 
 ## 🛠️ Pre-requisites
 
-To compilate and install **Create**, make shure you have this tools installed in your UNIX/LINUX system (is very likely that you already have those tools in your system):
+To compilate and install **Create**, make sure you have this tools installed in your UNIX/LINUX system (is very likely that you already have those tools in your system):
 
 * **C++ Compiler (g++):** Compatible with C++17 or superior.
 * **Make:** tool to compiling with `Makefile`.
